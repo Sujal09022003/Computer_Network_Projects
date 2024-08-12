@@ -1,0 +1,10 @@
+> Port Scanner
+==============
+
+ Target:	localhost
+ IP Adr.:	142.250.195.142
+ Ports: 	[ 1 / 1024 ]
+ Result:	[ 2 / 1024 ]
+
+ Port 80 	[open]
+ Port 443 	[open]
